@@ -1,0 +1,68 @@
+body{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#viewport{
+	width: 430px;
+	height: 500px;
+	margin-top: 80px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid LightGrey;
+	border-radius: 3px;
+	box-shadow: 1px 1px 1px 1px silver;
+	
+	
+}
+
+.Boogle_logo{
+	width: 75px;
+	margin: 40px auto auto 30px;
+}
+
+.Sign_in_block{
+	margin-left: 30px;
+}
+
+.Sign_in{
+	font-weight: normal;
+	font-size: 24px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	color: Black;
+}
+
+.text1{
+	font-size: 13px;
+	padding-top: 0px;
+	margin-top: 0px;
+	color: Black;
+}
+
+.form{
+	margin-top: 60px;
+}
+
+.form1{
+	width: 370px;
+	margin-bottom: 20px;
+}
+
+.button1{
+	margin-bottom: 60px;
+}
+
+.button2{
+	margin-right: 185px;
+}
+
+.button3{
+	background-color: #4885ed;
+	width: 90px;
+	height: 30px;
+	border: none;
+	border-radius: 3px;
+	color:white;
+	font-size: 16px;
+}
