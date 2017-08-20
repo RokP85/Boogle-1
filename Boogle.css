@@ -1,0 +1,69 @@
+#viewport{
+	font-family: arial, sans-serif;
+	background-color: #fff;
+	color: #222;
+	font-weight: lighter;
+	text-align: center; 
+}
+
+.header{
+	margin: 10px 10px auto auto;
+	width: 100px;
+	}
+
+.Gmail-button{
+	
+}
+
+/*noče podčrtati*/ 
+.Gmail-button:hover{
+	text-decoration: underline;
+}
+
+.Images-button{
+	
+}
+
+/* ne podčrta */
+.Images-button:hover{
+	text-decoration: underline;
+}
+
+/*noče spremeniti barvo gumba*/	
+.Sign-in-button{
+	background-color: #008CBA;
+}	
+	
+.Boogle-picture{
+	width:400px;
+	margin:auto;
+	margin-top:60px;
+}
+
+.input1{
+	margin:40px auto auto auto;
+	width:500px; 
+	height:40px;
+	border-radius:3px;
+	border:1px solid LightGrey;
+}
+
+.input1:hover{
+	box-shadow: 1px 1px grey;
+}
+
+
+.Button1{
+	position:relative;
+	margin:30px auto auto auto;
+	width:140px;
+	height:30px;
+	background-color: HoneyDew;
+	border:none;
+	font-weight:bold;
+}
+
+.Button1:hover{
+	border:1px solid LightGrey;
+}
+# test
